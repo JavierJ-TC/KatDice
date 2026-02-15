@@ -31,7 +31,7 @@
 		]
 	},
 	"scripts": [
-		"wcube.js"
+		"wcube_kat.js"
 	],
 	"url": "https://github.com/roquet11/KatDiceSet",
 	"manifest": "https://raw.githubusercontent.com/JavierJ-TC/KatDice/refs/heads/main/module.json",
