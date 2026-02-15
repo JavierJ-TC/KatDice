@@ -1,6 +1,6 @@
 {
-"id": "wcube_kat",
-	"name": "wcube_kat",
+"id": "katdice",
+	"name": "katdice",
 	"title": "Dice So Nice - Kat Dice Set",
 	"description": "Kat Dice Set",
 	"version": "1.0.0",
@@ -31,7 +31,7 @@
 		]
 	},
 	"scripts": [
-		"wcube.js"
+		"katdice.js"
 	],
 	"url": "https://github.com/roquet11/KatDiceSet",
 	"manifest": "https://raw.githubusercontent.com/JavierJ-TC/KatDice/refs/heads/main/module.json",
