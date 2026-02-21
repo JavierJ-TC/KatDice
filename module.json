@@ -3,7 +3,7 @@
 	"name": "katdice",
 	"title": "Dice So Nice - Kat Dice Set",
 	"description": "Kat Dice Set",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"minimumCoreVersion": "0.7.2",
 	"compatibleCoreVersion": "13",
 	"compatibility": {
